@@ -16,3 +16,6 @@ Checks
 
 ## volume-backups.py
 Automating backups of EC2.
+
+## cleanup-snapshots.py
+Automation of the snapshot cleanup.
