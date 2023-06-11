@@ -19,3 +19,6 @@ Automating backups of EC2.
 
 ## cleanup-snapshots.py
 Automation of the snapshot cleanup.
+
+## restore-volume.py
+Restoring the EC2 instance from the latest snapshot.
